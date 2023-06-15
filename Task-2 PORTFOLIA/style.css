@@ -1,9 +1,0 @@
-.container {
-    display: flexbox;
-    flex-direction: column;
-    margin-top: 20px;
-}
-
-label, input, button {
-    margin-bottom: 10px;
-}
